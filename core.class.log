@@ -1,0 +1,40 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933387434@s.whatsapp.net',
+    fromMe: false,
+    id: 'AB9135520F6798E54DFEF4BD13F60DD2',
+    participant: undefined
+  },
+  messageTimestamp: 1690381640,
+  pushName: 'Alvaro Bass',
+  broadcast: false,
+  message: Message {
+    conversation: 'Aa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Aa',
+  from: '56933387434'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56933387434@s.whatsapp.net',
+    fromMe: false,
+    id: '82F3DC2D1AAA0A33FBF87CC8D114EC39',
+    participant: undefined
+  },
+  messageTimestamp: 1690381641,
+  pushName: 'Alvaro Bass',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '56933387434'
+}
